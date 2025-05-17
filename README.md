@@ -27,7 +27,7 @@ cd backend
 
 Dalla directory backend:
 ```
-docker-compose up --build -d
+docker compose up --build -d
 ```
 **3. Installare le Dipendenze PHP (Composer)**
 
